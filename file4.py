@@ -1,5 +1,5 @@
 TEAM_MEMBERS = [
-    "ibrahimqaws"
+    "ibrahimkhamees","sedra nader","sham mohamed"
 ]
 
 print("Team members:")
